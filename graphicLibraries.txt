@@ -1,3 +1,6 @@
 AWT
 SWT
 Swing
+libGDX https://libgdx.badlogicgames.com/
+LWJGL https://www.lwjgl.org/
+Slick 2D http://slick.ninjacave.com/
